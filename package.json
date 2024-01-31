@@ -1,0 +1,42 @@
+{
+  "name": "nft_minting_dapp",
+  "version": "1.0.0",
+  "description": "nft_minting_dapp",
+  "private": true,
+  "dependencies": {
+    "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector": "^6.0.7",
+    "all": "^0.0.0",
+    "ethers": "^5.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.9",
+    "react-scripts": "4.0.3",
+    "redux": "^4.2.1",
+    "redux-thunk": "^2.4.2",
+    "rsuite": "^5.52.0",
+    "sourcemap-codec": "^1.4.8",
+    "styled-components": "^5.3.11",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.10.3",
+    "web3-eth-contract": "^1.10.3"
+  },
+  "author": "Mustafa Furkan karakulak",
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
