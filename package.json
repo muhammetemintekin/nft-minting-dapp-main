@@ -21,7 +21,7 @@
     "web3": "^1.10.3",
     "web3-eth-contract": "^1.10.3"
   },
-  "author": "Mustafa Furkan karakulak",
+  "author": "Muhammet Emin Tekin",
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",

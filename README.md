@@ -2,7 +2,7 @@
 ## Installation 🛠️
 
 ```sh
-git clone https://github.com/mfurkankarakulak/nft-minting-dapp.git
+git clone https://github.com/muhammetemintekin/nft-minting-dapp.git
 ```
 
 Make sure you have node.js installed so you can use npm, then run:

@@ -136,7 +136,7 @@ export const ResponsiveWrapper = styled.div`
   margin: auto;
   width: 80%;
   border: 2px solid white;
-  background: gray;
+  background: green;
     @media (min-width: 767px) {
     flex-direction: row;
   }
@@ -151,7 +151,7 @@ export const ResponsiveWrapperHeader = styled.div`
   width: 100%;
   max-height: 80px;
   padding: 10px;
-  background-color : #252525;
+  background-color : #909090;
   @media (min-width: 767px) {
     flex-direction: row;
   }
